@@ -1,0 +1,11 @@
+project;#commits;#authors;From;To;#stars;#forks;LastGHCommitDate;LongestGapStart (YYYY-MM), ;LongestGapEnd (YYYY-MM),;LongestGapLength;NumCommitsAfterLastGap;pattern
+ericproffitt_topicmodelsvb.jl;1542;11;1466824003;1741617121;84;9;2025/02/09;2023-03;2025-01;23;3;declining
+esa-philab_opensartoolkit;637;31;1542903465;1758635026;248;60;2026/02/04;2022-06;2023-06;13;111;declining
+geofranzi_geoportal;1169;14;1467280640;1756391053;0;0;2025/05/12;2022-03;2023-09;19;222;declining
+hbctraining_scrna-seq_online;1619;16;1514765279;1744731382;672;209;2026/08/20;2018-02;2019-03;14;1618;declining
+mariohsouto_proxsdp.jl;831;20;1515506544;1748191005;97;13;2025/05/25;2022-04;2023-01;10;56;declining
+pecanproject_pecan;38951;454;1283468974;1776459632;246;321;2026/09/25;None;None;0;0;sporadic
+qiskit_qiskit-experiments;11635;145;1614191172;1762367916;197;139;2026/09/09;2024-07;2024-07;1;717;declining
+smileipic_smilei;11931;212;1364546318;1761655373;449;157;2026/09/14;2013-04;2013-04;1;11929;sporadic
+stolllab_easyspin;2542;41;1318928290;1759430732;66;29;2026/09/28;2012-05;2012-06;2;2522;sporadic
+vcityteam_ud-reproducibility;674;26;1576158853;1732201063;2;2;2024/11/21;2023-03;2023-05;3;45;declining
